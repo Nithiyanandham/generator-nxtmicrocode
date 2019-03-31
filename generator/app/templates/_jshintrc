@@ -1,0 +1,29 @@
+{
+  "node": true,
+  "maxparams": 10,
+  "indent": true,
+  "camelcase": false,
+  "eqeqeq": true,
+  "forin": true,
+  "immed": true,
+  "latedef": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "strict": false,
+  "sub": true,
+  "expr": true,
+  "globals": {
+    "esversion": 6,
+    "require": false,
+    "$": false,
+    "describe": false,
+    "it": false,
+    "before": false,
+    "beforeEach": false,
+    "after": false,
+    "afterEach": false,
+    "run": false,
+    "setTimeout": false
+  }
+}
