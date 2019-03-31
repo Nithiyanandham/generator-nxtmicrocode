@@ -1,0 +1,33 @@
+{
+  "name": "generator-nxtmicrocode",
+  "version": "1.0.0",
+  "description": "Microservice code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithiyanandham/generator-nxtmicrocode.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "springboot",
+    "generator",
+    "nxtmicrocode"
+  ],
+  "author": "Nithiyanandham <nithi1992.t@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nithiyanandham/generator-nxtmicrocode/issues"
+  },
+  "homepage": "https://github.com/Nithiyanandham/generator-nxtmicrocode#readme",
+  "dependencies": {
+    "decamelize": "^3.1.1",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.2.0"
+  },
+  "files": [
+    "generator"
+  ]
+}
