@@ -1,6 +1,6 @@
 {
   "name": "generator-nxtmicrocode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Microservice code generator",
   "main": "app/index.js",
   "scripts": {
